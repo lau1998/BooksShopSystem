@@ -1,0 +1,40 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <title>注册表单</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">  
+    <script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/tp2018.4.24test/Public/css/login-zc.css" type="text/css" media="all">
+</head>
+<body>
+    <h1 >注册</h1>
+    <div class="container w3layouts agileits">
+            <form  method="post" action="/tp2018.4.24test/index.php/Home/Index/Clickzc"  enctype="multipart/form-data">
+                <input type="text" name="username" placeholder="用户名" required="">
+                <input type="password" name="userpwd" placeholder="密码" required="">
+                <input type="password" name="userpwd1" placeholder="重复密码" required="">
+                <input type="text" name="tel" placeholder="手机号码" required="">
+                <span style=" font-size: 15px;color: #FFF;text-align: left;">&nbsp;&nbsp;&nbsp;选择头像：</span>
+                <input type="file" name="myfile">
+                <div class="send-button w3layouts agileits">
+                <input type="text" placeholder="请输入验证码" name="yzm" required="" style="width:50%"><img class="weui-vcode-img" id="vcode" src="/tp2018.4.24test/index.php/Home/Index/yzm" alt="看不清？换一张！" onclick="this.src=this.src+'?' + Math.random();" title="点击图片刷新"/></div>
+                <div class="send-button ">
+                     <input type="submit" name="zc" value="点 击 注 册">
+            </div>
+            </form>
+            <div class="send-button ">
+                <a href="/tp2018.4.24test/index.php/Home/Index/login">
+                    <input type="submit" value="前 往 登 录" name="login"></a>
+            </div>
+            </div>
+    </div>
+    <div class="footer w3layouts agileits">
+        <p>Copyright &copy; More Templates <a href="http://www.cssmoban.com/" target="_blank" title="LAUCHER">LAUCHER</a> - Collect from <a href="https://czhlove.cn/" title="LAUCHER" target="_blank">LAUCHER</a></p>
+    </div>
+</body>
+<!-- //END for laucher -->
+</html>

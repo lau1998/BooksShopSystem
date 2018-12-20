@@ -1,0 +1,25 @@
+[ 2018-08-07T23:05:04+08:00 ] 192.168.1.7 /tp2018.4.24test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+
+[ 2018-08-07T23:05:05+08:00 ] 192.168.1.7 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2018-08-07T23:05:25+08:00 ] 192.168.1.7 /tp2018.4.24test/index.php/Home/Index/Clicklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2018-08-07T23:05:29+08:00 ] 192.168.1.7 /tp2018.4.24test/index.php/Home/Index/zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-08-07T23:05:29+08:00 ] 192.168.1.7 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+

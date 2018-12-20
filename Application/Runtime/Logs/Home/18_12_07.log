@@ -1,0 +1,10 @@
+[ 2018-12-07T19:31:36+08:00 ] 127.0.0.1 /tp2018.4.24test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2018-12-07T19:31:36+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>实验室</title>
+  <meta name="description" content="app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" href="__PUBLIC__/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/simple-line-icons.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/app.css" type="text/css" />
+</head>
+<style type="text/css">
+   /* start 分页样式 */
+ 
+.page{
+  overflow:hidden;
+  margin:50px 0 50px 100px;;
+}
+ 
+.page ul a,.page ul span{
+  float:left;
+  display:inline-block;
+  padding: 0 17px;
+  height:40px;
+  width:auto;
+  border:1px solid #DDDDDD;
+  border-radius: 4px;
+  background:#fff;
+  text-align:center;
+  line-height:40px;
+  margin-right:10px;
+  font-family: "microsoft yahei" simhei sans-serif;
+  color:#7d7d7d;
+}
+ 
+.page ul a:hover{
+  background:#337AB7;
+  color:#fff;
+  text-decoration:none;
+}
+ 
+.page ul span.current{
+  background: #337AB7;
+  color:#fff;
+}
+ 
+ 
+.page ul a:first,.page ul a:last{
+  float:left;
+  display:inline-block;
+  width:40px;
+  height:40px;
+  border-radius:50%;
+  background:rgb(215, 215, 217);
+  text-align:center;
+  line-height:40px;
+  margin-right:10px;
+  font-family: "microsoft yahei" simhei sans-serif;
+}
+ 
+#pageTips {
+  float:right;
+}
+/* end 分页样式 */
+</style>
+<body >
+ <div class="app app-header-fixed" id="app">
+    <!-- navbar -->
+   <!-- top -->
+   <include file="index/template/header" />
+   <!-- /top -->
+    <!-- / navbar -->
+    <!-- left  -->
+    <include file="index/template/left" />
+    <!-- /left -->
+    <!-- / menu -->
+    <!-- content -->
+    <div class="app-content">
+      <div ui-butterbar></div>
+      <a href class="off-screen-toggle hide" data-toggle="class:off-screen" data-target=".app-aside" ></a>
+      <div class="app-content-body fade-in-up">
+        <!-- COPY the content from "tpl/" -->
+          <div class="hbox hbox-auto-xs hbox-auto-sm">
+               <div class="wrapper-md">
+                  <div class="panel panel-default">
+                    <div class="panel-heading h3 text-center">
+                      图书信息查看
+                    </div>
+                    <div class="panel-body b-b b-light">
+                      
+                      <form action="__CONTROLLER__/books_search" method="post">
+                      <strong>搜索书名:</strong> 
+                              <input id="filter" type="text" class="form-control input-sm w-sm inline m-r" name="bookname" required></input>
+                              <input type="submit" class="btn btn-sm btn-success " name="go"></input>
+                              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="__CONTROLLER__/addbooks">
+                              <input type="button" class="btn btn-sm btn-primary btn-info" name="add" value="添加图书"></input></a>
+                      </form>
+                    </div>
+                    <div>
+                      <table class="table m-b-none" ui-jq="footable" data-filter="#filter" data-page-size="5">
+                        <thead>
+                          <tr>
+                          <th data-toggle="true">
+                                  ID
+                              </th>
+                              <th data-toggle="true">
+                                  图书名
+                              </th>
+                              <th>
+                                  作者
+                              </th>
+                              <th data-hide="phone,tablet">
+                                 出版社
+                               </th>
+                              <th data-hide="phone,tablet">
+                                  图书类型
+                              </th>
+                              <th data-hide="phone" >
+                                  图书价格(本)
+                              </th>
+                              <th data-hide="phone,tablet" data-name="Date Of Birth">
+                                  封面图
+                              </th>
+                              <th data-hide="phone">
+                                  操作
+                              </th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                       
+                           <volist id="vo" name="data">
+                              <tr>
+                              <form action="__CONTROLLER__/books_exe" method="post">
+                                  <td>{$vo.id}</td>
+                                  <td title="点击查看详情"><a href="__CONTROLLER__/books_exe/id/{$vo.id}" > {$vo.bookname}</a></td></form>
+                                  <td>{$vo.author}</td>
+                                  <th>{$vo.publisher}</th>
+                                  <td>{$vo.booktype}</td>
+                                  <td><i class="fa fa-cny"></i>{$vo.price}</td>
+                                  <td>{$vo.cover}</td>
+                                  <td>  <form action="__CONTROLLER__/books_exe" method="post">
+                                  <button type="submit" class="btn btn-rounded btn-sm btn-info" value="{$vo.id}" name="xq"><i class="icon-eyeglasses"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 详情</font></font></button>
+                                  <button type="submit" class="btn btn-rounded btn-sm btn-warning" value="{$vo.id}" name="xg"><i class="icon-note"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 修改</font></font></button>
+                                   <button type="button" class="btn btn-rounded btn-sm btn-danger" data-toggle="modal" data-target="#myModal"><i class="icon-trash"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除</font></font></button>
+                                  <!-- 模态框（Modal） -->
+                                      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog">
+                                          <div class="modal-content">
+                                            <div class="modal-header">
+                                              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                                &times;
+                                              </button>
+                                              <h4 class="modal-title" id="myModalLabel">
+                                               删除此图书信息 
+                                              </h4>
+                                            </div>
+                                            <div class="modal-body">
+                                              确定要删除吗？此方法不可逆，删除后请刷新。不想删除按下 ESC 按钮退出。
+                                            </div>
+                                            <div class="modal-footer">
+                                              <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                                              </button>
+                                              <button type="submit" class="btn btn-primary" name="sc" value="{$vo.id}">
+                                                心意已决
+                                              </button>
+                                            </div>
+                                          </div><!-- /.modal-content -->
+                                        </div><!-- /.modal -->
+                                        <script>
+                                  $(function () { $('#myModal').modal({
+                                    keyboard: true
+                                  })});
+                                  $(window).on('resize', centerModals);
+                                  $("[data-toggle='modal']").click(function(){
+                                  </script>
+                            </form>
+                                  </td>
+                              </tr> 
+                             </div>
+                            </volist>
+                        </tbody>
+                        <tfoot class="hide-if-no-paging">
+                          <tr>
+                              <td colspan="12" class="text-center"> 
+                                  <div class="col-md-10 text-right text-center-xs result page">
+                                  {$page}
+                                  </div>
+                              </td>
+                          </tr>
+                        </tfoot>
+                      </table>
+                      
+                    </div>
+  </div>
+</div>
+
+          </div>
+        <!-- PASTE above -->
+      </div>
+    </div>
+    <!-- /content -->
+
+    <!-- aside right -->
+    <!-- / aside right -->
+
+    <!-- footer -->
+          <include file="index/template/footer" />
+       <!-- / footer -->
+  </div>
+  <!-- jQuery -->
+  <script src="__PUBLIC__/vendor/jquery/jquery.min.js"></script>
+  <script src="__PUBLIC__/vendor/jquery/bootstrap.js"></script>
+  <script type="text/javascript">
+    +function ($) {
+      $(function(){
+        // class
+        $(document).on('click', '[data-toggle^="class"]', function(e){
+          e && e.preventDefault();
+          console.log('abc');
+          var $this = $(e.target), $class , $target, $tmp, $classes, $targets;
+          !$this.data('toggle') && ($this = $this.closest('[data-toggle^="class"]'));
+          $class = $this.data()['toggle'];
+          $target = $this.data('target') || $this.attr('href');
+          $class && ($tmp = $class.split(':')[1]) && ($classes = $tmp.split(','));
+          $target && ($targets = $target.split(','));
+          $classes && $classes.length && $.each($targets, function( index, value ) {
+            if ( $classes[index].indexOf( '*' ) !== -1 ) {
+              var patt = new RegExp( '\\s' + 
+                  $classes[index].
+                    replace( /\*/g, '[A-Za-z0-9-_]+' ).
+                    split( ' ' ).
+                    join( '\\s|\\s' ) + 
+                  '\\s', 'g' );
+              $($this).each( function ( i, it ) {
+                var cn = ' ' + it.className + ' ';
+                while ( patt.test( cn ) ) {
+                  cn = cn.replace( patt, ' ' );
+                }
+                it.className = $.trim( cn );
+              });
+            }
+            ($targets[index] !='#') && $($targets[index]).toggleClass($classes[index]) || $this.toggleClass($classes[index]);
+          });
+          $this.toggleClass('active');
+        });
+
+        // collapse nav
+        $(document).on('click', 'nav a', function (e) {
+          var $this = $(e.target), $active;
+          $this.is('a') || ($this = $this.closest('a'));
+          
+          $active = $this.parent().siblings( ".active" );
+          $active && $active.toggleClass('active').find('> ul:visible').slideUp(200);
+          
+          ($this.parent().hasClass('active') && $this.next().slideUp(200)) || $this.next().slideDown(200);
+          $this.parent().toggleClass('active');
+          
+          $this.next().is('ul') && e.preventDefault();
+
+          setTimeout(function(){ $(document).trigger('updateNav'); }, 300);      
+        });
+      });
+    }(jQuery);
+  </script>
+</html>

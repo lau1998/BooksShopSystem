@@ -1,0 +1,3240 @@
+[ 2018-04-25T12:17:12+08:00 ] ::1 /tp2018.4.24test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037176s ]
+
+[ 2018-04-25T12:17:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2018-04-25T12:17:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm?0.695918450712715
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-04-25T12:17:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/Clicklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-04-25T12:17:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2018-04-25T12:17:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2018-04-25T12:17:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xguserdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2018-04-25T12:17:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-04-25T12:18:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/sys
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+
+[ 2018-04-25T12:18:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T12:18:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/2.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2018-04-25T12:18:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T12:18:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/1.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T12:18:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2018-04-25T12:18:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-04-25T12:18:51+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T12:28:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T12:28:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2018-04-25T12:28:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T12:28:23+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T12:28:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b18.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b17.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b20.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b19.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b14.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T12:29:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003413s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b15.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2018-04-25T12:29:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2018-04-25T12:29:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T12:30:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2018-04-25T12:30:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2018-04-25T12:30:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T12:30:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-04-25T12:30:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2018-04-25T12:32:29+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2018-04-25T12:32:31+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T12:32:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2018-04-25T19:41:45+08:00 ] ::1 /tp2018.4.24test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2018-04-25T19:41:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2018-04-25T19:41:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm?0.27250274470718305
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T19:41:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm?0.27250274470718305?0.23984413928341763
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-04-25T19:42:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/Clicklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2018-04-25T19:42:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2018-04-25T19:43:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2018-04-25T19:43:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-04-25T19:43:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xguserdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2018-04-25T19:43:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2018-04-25T19:43:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2018-04-25T19:46:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T19:46:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2018-04-25T19:46:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2018-04-25T19:47:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T19:48:37+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2018-04-25T19:48:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2018-04-25T19:48:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T19:48:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T19:48:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2018-04-25T19:48:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T19:48:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-25T19:48:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2018-04-25T19:48:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2018-04-25T19:48:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2018-04-25T19:48:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T19:50:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2018-04-25T19:50:22+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-04-25T19:51:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-25T19:53:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-04-25T19:53:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/$vo.id%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 非法操作:$vo.id}
+
+[ 2018-04-25T19:54:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b19.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b20.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b17.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b15.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b14.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003541s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002297s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b18.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-04-25T19:54:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005788s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2018-04-25T19:54:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2018-04-25T19:54:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T19:54:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 非法操作:3
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b17.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b20.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b18.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b14.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b15.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b19.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/b2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/c5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2018-04-25T19:54:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/img/a2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2018-04-25T19:54:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T19:54:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2018-04-25T19:54:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books?2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T19:54:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books?3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2018-04-25T19:57:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books?3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2018-04-25T19:57:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T19:57:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2018-04-25T19:57:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2018-04-25T19:58:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T19:58:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-04-25T19:58:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-04-25T19:58:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2018-04-25T19:59:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2018-04-25T19:59:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2018-04-25T19:59:24+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2018-04-25T19:59:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-04-25T19:59:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-04-25T19:59:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2018-04-25T20:00:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2018-04-25T20:00:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2018-04-25T20:00:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:00:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-25T20:00:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2018-04-25T20:00:23+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2018-04-25T20:00:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2018-04-25T20:00:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2018-04-25T20:00:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2018-04-25T20:00:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2018-04-25T20:00:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2018-04-25T20:00:43+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2018-04-25T20:00:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2018-04-25T20:00:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2018-04-25T20:00:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2018-04-25T20:00:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id?8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-25T20:00:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2018-04-25T20:01:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T20:01:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/books/id?7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-04-25T20:01:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2018-04-25T20:01:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2018-04-25T20:01:51+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T20:01:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2018-04-25T20:01:53+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2018-04-25T20:01:53+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2018-04-25T20:01:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2018-04-25T20:01:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-04-25T20:01:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-04-25T20:01:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:01:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T20:01:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2018-04-25T20:01:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2018-04-25T20:01:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-04-25T20:01:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2018-04-25T20:02:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T20:02:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2018-04-25T20:02:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2018-04-25T20:02:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:02:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2018-04-25T20:02:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-04-25T20:02:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2018-04-25T20:02:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2018-04-25T20:02:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2018-04-25T20:02:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2018-04-25T20:03:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-04-25T20:03:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T20:03:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-04-25T20:03:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/userid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2018-04-25T20:03:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T20:03:13+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2018-04-25T20:03:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+
+[ 2018-04-25T20:03:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2018-04-25T20:03:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2018-04-25T20:03:34+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2018-04-25T20:04:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+
+[ 2018-04-25T20:04:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/books_exe/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-04-25T20:04:31+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+
+[ 2018-04-25T20:04:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T20:06:37+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-04-25T20:06:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T20:06:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T20:06:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2018-04-25T20:06:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-04-25T20:06:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-04-25T20:07:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2018-04-25T20:07:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2018-04-25T20:08:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2018-04-25T20:08:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2018-04-25T20:08:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T20:09:04+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2018-04-25T20:09:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2018-04-25T20:09:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2018-04-25T20:09:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2018-04-25T20:09:24+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T20:09:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2018-04-25T20:09:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2018-04-25T20:09:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-04-25T20:09:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2018-04-25T20:09:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T20:10:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-04-25T20:10:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2018-04-25T20:10:26+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2018-04-25T20:10:26+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2018-04-25T20:10:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2018-04-25T20:10:29+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2018-04-25T20:10:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-04-25T20:10:37+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T20:10:53+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2018-04-25T20:11:04+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-04-25T20:11:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2018-04-25T20:11:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2018-04-25T20:11:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2018-04-25T20:11:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-04-25T20:11:53+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2018-04-25T20:11:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T20:11:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2018-04-25T20:11:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2018-04-25T20:12:30+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2018-04-25T20:12:31+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2018-04-25T20:12:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2018-04-25T20:12:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T20:12:34+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-04-25T20:12:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2018-04-25T20:12:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2018-04-25T20:12:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2018-04-25T20:12:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2018-04-25T20:12:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2018-04-25T20:12:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2018-04-25T20:12:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-04-25T20:12:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-04-25T20:12:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-04-25T20:12:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2018-04-25T20:12:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-04-25T20:12:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2018-04-25T20:13:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-04-25T20:13:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2018-04-25T20:13:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2018-04-25T20:13:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+
+[ 2018-04-25T20:24:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-04-25T20:24:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-04-25T20:24:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2018-04-25T20:24:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-04-25T20:24:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xguserdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+ERR: Call to a member function where() on null
+
+[ 2018-04-25T20:28:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2018-04-25T20:28:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: syntax error, unexpected '}', expecting end of file
+
+[ 2018-04-25T20:28:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2018-04-25T20:28:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 非法操作:xgbooksdata_e
+
+[ 2018-04-25T20:28:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2018-04-25T20:29:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T20:30:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+ERR: Call to a member function where() on null
+
+[ 2018-04-25T20:30:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: Call to a member function where() on null
+
+[ 2018-04-25T20:30:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2018-04-25T20:30:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: Call to a member function where() on null
+
+[ 2018-04-25T20:31:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2018-04-25T20:31:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2018-04-25T20:32:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2018-04-25T20:32:30+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: Call to a member function where() on null
+
+[ 2018-04-25T20:33:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2018-04-25T20:33:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2018-04-25T20:33:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2018-04-25T20:34:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T20:34:27+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2018-04-25T20:34:29+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2018-04-25T20:36:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2018-04-25T20:36:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T20:36:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2018-04-25T20:37:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2018-04-25T20:37:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xguserdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2018-04-25T20:37:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xguserdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+
+[ 2018-04-25T20:37:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+
+[ 2018-04-25T20:37:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:38:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-04-25T20:38:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-04-25T20:38:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2018-04-25T20:38:13+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2018-04-25T20:38:24+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2018-04-25T20:38:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2018-04-25T20:38:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:39:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-04-25T20:39:34+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2018-04-25T20:39:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2018-04-25T20:39:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T20:39:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-04-25T20:39:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2018-04-25T20:39:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2018-04-25T20:41:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-04-25T20:41:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-04-25T20:41:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2018-04-25T20:41:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2018-04-25T20:41:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2018-04-25T20:41:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2018-04-25T20:41:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2018-04-25T20:42:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:42:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2018-04-25T20:42:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T20:42:11+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T20:42:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T20:42:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2018-04-25T20:42:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T20:42:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2018-04-25T20:43:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/databooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+ERR: 非法操作:databooks
+
+[ 2018-04-25T20:43:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/booksdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T20:43:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-25T20:43:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-04-25T20:43:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2018-04-25T20:43:43+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2018-04-25T20:43:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T20:43:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2018-04-25T20:44:30+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-04-25T20:44:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2018-04-25T20:44:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2018-04-25T20:44:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T20:44:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2018-04-25T20:45:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-04-25T20:45:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2018-04-25T20:45:37+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2018-04-25T20:46:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2018-04-25T20:46:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2018-04-25T20:46:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T20:46:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/1.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-04-25T20:46:30+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2018-04-25T20:46:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-04-25T20:46:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2018-04-25T20:46:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2018-04-25T20:46:43+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T20:46:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2018-04-25T20:46:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2018-04-25T20:46:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2018-04-25T20:46:56+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/xgbooksdata_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T20:47:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T20:48:25+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2018-04-25T20:49:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2018-04-25T20:49:31+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T20:49:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2018-04-25T20:50:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2018-04-25T20:52:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2018-04-25T20:52:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2018-04-25T20:52:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2018-04-25T20:52:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T20:52:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2018-04-25T20:53:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T20:54:09+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2018-04-25T20:54:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-04-25T20:57:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-04-25T20:57:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 非法操作:addbooks
+
+[ 2018-04-25T20:58:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2018-04-25T20:59:23+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2018-04-25T20:59:23+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2018-04-25T21:00:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-04-25T21:09:34+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2018-04-25T21:09:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2018-04-25T21:09:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-04-25T21:09:39+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2018-04-25T21:09:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-04-25T21:10:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-04-25T21:10:50+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks.shmtl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 非法操作:addbooks.shmtl
+
+[ 2018-04-25T21:11:02+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2018-04-25T21:11:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2018-04-25T21:11:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T21:11:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-04-25T21:11:11+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2018-04-25T21:11:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-04-25T21:11:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2018-04-25T21:11:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-04-25T21:13:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2018-04-25T21:13:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2018-04-25T21:13:59+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2018-04-25T21:14:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:15:51+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2018-04-25T21:17:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2018-04-25T21:17:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2018-04-25T21:19:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2018-04-25T21:19:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2018-04-25T21:20:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2018-04-25T21:20:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2018-04-25T21:21:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2018-04-25T21:21:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-04-25T21:21:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2018-04-25T21:21:48+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T21:21:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2018-04-25T21:21:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2018-04-25T21:21:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2018-04-25T21:22:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2018-04-25T21:22:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2018-04-25T21:22:58+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2018-04-25T21:24:06+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2018-04-25T21:24:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T21:24:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2018-04-25T21:24:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-04-25T21:24:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2018-04-25T21:24:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-04-25T21:24:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2018-04-25T21:24:32+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2018-04-25T21:24:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2018-04-25T21:24:34+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-04-25T21:24:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-25T21:24:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T21:24:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2018-04-25T21:24:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2018-04-25T21:24:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2018-04-25T21:24:36+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2018-04-25T21:24:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T21:24:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T21:24:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-04-25T21:24:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+
+[ 2018-04-25T21:24:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2018-04-25T21:25:28+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2018-04-25T21:25:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2018-04-25T21:25:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2018-04-25T21:25:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-04-25T21:25:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2018-04-25T21:26:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2018-04-25T21:26:13+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-04-25T21:26:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2018-04-25T21:27:04+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:28:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: Call to a member function data() on null
+
+[ 2018-04-25T21:29:35+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:29:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T21:29:42+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:30:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2018-04-25T21:30:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: Function name must be a string
+
+[ 2018-04-25T21:30:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+ERR: Function name must be a string
+
+[ 2018-04-25T21:30:38+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-25T21:31:53+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2018-04-25T21:32:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2018-04-25T21:32:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-04-25T21:33:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2018-04-25T21:33:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2018-04-25T21:33:29+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2018-04-25T21:33:58+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:34:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:34:11+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: Call to a member function add() on null
+
+[ 2018-04-25T21:34:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T21:35:33+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2018-04-25T21:35:40+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2018-04-25T21:35:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2018-04-25T21:35:44+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-04-25T21:36:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2018-04-25T21:36:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2018-04-25T21:36:11+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2018-04-25T21:36:11+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T21:36:13+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2018-04-25T21:36:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2018-04-25T21:36:14+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2018-04-25T21:36:15+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2018-04-25T21:36:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2018-04-25T21:36:16+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-04-25T21:36:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-25T21:36:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2018-04-25T21:36:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2018-04-25T21:36:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-04-25T21:36:20+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2018-04-25T21:36:21+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-25T21:36:24+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2018-04-25T21:36:24+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-04-25T21:36:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2018-04-25T21:37:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-04-25T21:38:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/2.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-04-25T21:38:01+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2018-04-25T21:38:08+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2018-04-25T21:38:10+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-25T21:39:17+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2018-04-25T21:39:19+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/goxg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2018-04-25T21:39:58+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2018-04-25T21:40:12+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/userdata
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-04-25T21:40:52+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2018-04-25T21:40:54+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2018-04-25T21:40:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-04-25T21:40:58+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-25T21:41:00+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2018-04-25T21:41:03+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2018-04-25T21:41:04+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books_exe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2018-04-25T21:41:07+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/addbooks
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-04-25T21:45:41+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2018-04-25T21:45:45+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/2.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-04-25T21:45:46+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2018-04-25T21:45:47+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/1.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2018-04-25T21:45:49+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/3.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2018-04-25T21:45:55+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/2.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2018-04-25T21:45:57+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books/p/1.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+

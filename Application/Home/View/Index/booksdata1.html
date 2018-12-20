@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Be Angular | Bootstrap Admin Web App with AngularJS</title>
+  <meta name="description" content="app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" href="__PUBLIC__/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/simple-line-icons.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/app.css" type="text/css" />
+  <style>
+  </style>
+</head>
+<body >
+  <div class="app app-header-fixed" id="app">
+    <!-- navbar -->
+   <!-- top -->
+   <include file="index/template/header" />
+   <!-- /top -->
+    <!-- / navbar -->
+    <!-- left  -->
+    <include file="index/template/left" />
+    <!-- /left -->
+    <!-- / menu -->
+    <!-- content -->
+      <div class="app-content">
+      <div ui-butterbar></div>
+      <a href class="off-screen-toggle hide" data-toggle="class:off-screen" data-target=".app-aside" ></a>
+      <div class="app-content-body fade-in-up">
+        <!-- COPY the content from "tpl/" -->
+          <div class="hbox hbox-auto-xs hbox-auto-sm">
+            <div class="col">
+                             <div class="wrapper-lg bg-white-opacity">
+                 <div class="row m-t">
+                   <div class="col-sm-12">
+                     <div class="clear m-b">  
+                      <div class="col-sm-12" >
+                        <div class="panel panel-default">
+                          <div class="panel-heading h3 text-center">
+                            图书信息详情查看
+                          </div>
+                          <div class="panel-body">
+                          <form class="bs-example form-horizontal" method="post" action="__CONTROLLER__/goxg" >
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>图书ID：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$id}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>图书名：</strong></label>
+                              <div class="col-lg-10">
+                                 <span class="help-block m-b-none">{$bookname}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>作者：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$author}</span>
+                              </div>
+                            </div>
+                             <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>出版社：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$publisher}</span>
+                              </div>
+                            </div>
+                             <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>图书类型：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$booktype}</span>
+                              </div>
+                            </div>
+                             <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>图书价格：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none"><i class="fa fa-cny"></i>{$price}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>封面图：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$cover}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label"><strong>此书简介：</strong></label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$synopsis}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <div class="col-lg-offset-2 col-lg-10">
+                              <button type="button" class="btn btn-sm btn-primary btn-rounded" onclick="javascript:history.back(-1);">图书信息列表</button>
+                              </div>
+                            </div>
+                          </form>
+                        </div>
+                        </div>
+                      </div>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+            </div>
+
+          </div>
+        <!-- PASTE above -->
+      </div>
+    </div>
+
+    <!-- footer -->
+          <include file="index/template/footer" />
+       <!-- / footer -->
+  </div>
+  <!-- jQuery -->
+  <script src="__PUBLIC__/vendor/jquery/jquery.min.js"></script>
+  <script src="__PUBLIC__/vendor/jquery/bootstrap.js"></script>
+  <script type="text/javascript">
+    +function ($) {
+      $(function(){
+        // class
+        $(document).on('click', '[data-toggle^="class"]', function(e){
+          e && e.preventDefault();
+          console.log('abc');
+          var $this = $(e.target), $class , $target, $tmp, $classes, $targets;
+          !$this.data('toggle') && ($this = $this.closest('[data-toggle^="class"]'));
+          $class = $this.data()['toggle'];
+          $target = $this.data('target') || $this.attr('href');
+          $class && ($tmp = $class.split(':')[1]) && ($classes = $tmp.split(','));
+          $target && ($targets = $target.split(','));
+          $classes && $classes.length && $.each($targets, function( index, value ) {
+            if ( $classes[index].indexOf( '*' ) !== -1 ) {
+              var patt = new RegExp( '\\s' + 
+                  $classes[index].
+                    replace( /\*/g, '[A-Za-z0-9-_]+' ).
+                    split( ' ' ).
+                    join( '\\s|\\s' ) + 
+                  '\\s', 'g' );
+              $($this).each( function ( i, it ) {
+                var cn = ' ' + it.className + ' ';
+                while ( patt.test( cn ) ) {
+                  cn = cn.replace( patt, ' ' );
+                }
+                it.className = $.trim( cn );
+              });
+            }
+            ($targets[index] !='#') && $($targets[index]).toggleClass($classes[index]) || $this.toggleClass($classes[index]);
+          });
+          $this.toggleClass('active');
+        });
+
+        // collapse nav
+        $(document).on('click', 'nav a', function (e) {
+          var $this = $(e.target), $active;
+          $this.is('a') || ($this = $this.closest('a'));
+          
+          $active = $this.parent().siblings( ".active" );
+          $active && $active.toggleClass('active').find('> ul:visible').slideUp(200);
+          
+          ($this.parent().hasClass('active') && $this.next().slideUp(200)) || $this.next().slideDown(200);
+          $this.parent().toggleClass('active');
+          
+          $this.next().is('ul') && e.preventDefault();
+
+          setTimeout(function(){ $(document).trigger('updateNav'); }, 300);      
+        });
+      });
+    }(jQuery);
+  </script>
+</body>
+</html>

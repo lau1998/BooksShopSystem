@@ -1,0 +1,10 @@
+[ 2018-04-24T23:16:05+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2018-04-24T23:16:18+08:00 ] ::1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+

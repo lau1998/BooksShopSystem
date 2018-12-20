@@ -1,0 +1,43 @@
+  <link rel="stylesheet" type="text/css" href="https://res.wx.qq.com/open/libs/weui/1.1.2/weui.min.css">
+  <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+  <script type="text/javascript" src="__PUBLIC__/js/lrz.bundle.js"></script>
+    <script type="text/javascript">
+                    $(document).ready(function(){
+                        $("#photo1").change(function(){   
+                            upup(this,"#img1","#img");
+                            }); 
+                        });
+
+                    //图片压缩后上传函数
+                       function upup(ff,newImg,imgname)
+                         {
+                          lrz(ff.files[0],{width:300})
+                          .then(function (rst) {
+                                // 处理成功会执行
+                                var img = new Image();
+                                img.src = rst.base64;
+                                img.onload = function () {
+                                  $('#loadingToast').fadeIn();
+                                  $(newImg).attr("style","background-image:url("+img.src+")");
+                                };
+                              })
+                              .catch(function (err){
+                                    // 处理失败会执行
+                                    console.log(err);
+                                  })
+                        }
+     </script>
+           <div class="form-group">
+                 <label class="col-lg-2 control-label">头像上传：</label>
+                      <div class="col-lg-10">
+                            <div class="weui-uploader__bd">
+                          <ul class="weui-uploader__files" id="uploaderFiles" style="float: left;">
+                             <li id="img1" class="weui-uploader__file" style="background-image:url(__PUBLIC__/txphoto/{$userphoto})"></li>
+                          </ul>
+                          <div class="weui-uploader__input-box" style="float: left;">
+                              <input type="hidden" name="myfile"  value="{$userphoto}">
+                              <input  id="photo1" name="myfile"  class="weui-uploader__input" type="file" accept="image/*" multiple/>
+                          </div>
+                      </div>
+                  </div>
+               </div>

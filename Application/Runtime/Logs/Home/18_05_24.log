@@ -1,0 +1,35 @@
+[ 2018-05-24T17:11:01+08:00 ] 127.0.0.1 /tp2018.4.24test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+
+[ 2018-05-24T17:11:01+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/yzm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2018-05-24T17:11:12+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/Clicklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2018-05-24T17:11:13+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2018-05-24T17:11:24+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/books
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2018-05-24T17:11:29+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/books_search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2018-05-24T17:11:46+08:00 ] 127.0.0.1 /tp2018.4.24test/index.php/Home/Index/books_search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+

@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Be Angular | Bootstrap Admin Web App with AngularJS</title>
+  <meta name="description" content="app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" href="__PUBLIC__/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/simple-line-icons.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/font.css" type="text/css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/app.css" type="text/css" />
+  <style>
+  </style>
+</head>
+<body >
+  <div class="app app-header-fixed" id="app">
+    <!-- navbar -->
+   <!-- top -->
+   <include file="index/template/header" />
+   <!-- /top -->
+    <!-- / navbar -->
+    <!-- left  -->
+    <include file="index/template/left" />
+    <!-- /left -->
+    <!-- / menu -->
+    <!-- content -->
+    <div class="app-content">
+      <div ui-butterbar></div>
+      <a href class="off-screen-toggle hide" data-toggle="class:off-screen" data-target=".app-aside" ></a>
+      <div class="app-content-body fade-in-up">
+        <!-- COPY the content from "tpl/" -->
+          <div class="hbox hbox-auto-xs hbox-auto-sm">
+            <div class="col">
+              <div style="background:url(../../../public/images/bg4.png) center center; background-size:cover">
+               <div class="wrapper-lg bg-white-opacity">
+                 <div class="row m-t">
+                   <div class="col-sm-12">
+                     <div class="clear m-b">  
+                      <div class="col-sm-12" >
+                      <a href class="thumb-lg pull-left m-r col-md-4">
+                       <img src="__PUBLIC__/txphoto/{$userphoto}"  >
+                     </a>
+                      <div class="m-b m-t-sm" >
+                         <span class="h2 text-black">{$_SESSION['username']}</span>
+                         <small class="m-l">London, UK</small><br><br><br>
+                       </div> 
+                        <div class="panel panel-default">
+                          <div class="panel-heading font-bold">用户信息</div>
+                          <div class="panel-body">
+                          <form class="bs-example form-horizontal" method="post" action="__CONTROLLER__/xguserdata" >
+                         
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label">密码：</label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$username}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label">性别：</label>
+                              <div class="col-lg-10">
+                                 <span class="help-block m-b-none">{$usersex}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label">电话号码：</label>
+                              <div class="col-lg-10">
+                                <span class="help-block m-b-none">{$usertel}</span>
+                              </div>
+                            </div>
+                            <div class="form-group">
+                              <label class="col-lg-2 control-label">爱好：</label>
+                              <div class="col-lg-10">
+                                <textarea class="form-control" rows="6" placeholder="Type your message" disabled>{$useraihao}</textarea>
+                              </div>
+                            </div>
+                           
+                            <div class="form-group">
+                              <div class="col-lg-offset-2 col-lg-10">
+                                <button type="submit" class="btn btn-sm btn-info" name="xg">修改用户信息</button></a>
+                              </div>
+                            </div>
+                          </form>
+                        </div>
+                        </div>
+                      </div>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+              <div class="wrapper bg-white b-b">
+                <ul class="nav nav-pills nav-sm">
+                  <li class="active"><a href>Stream</a></li>
+                  <li><a href>Profile</a></li>
+                  <li><a href>Messages</a></li>
+                </ul>
+              </div>
+
+            <!--   <div class="padder">      
+             <div class="streamline b-l b-info m-l-lg m-b padder-v">
+               <div>
+                 <a class="pull-left thumb-sm avatar m-l-n-md">
+                   <img src="__PUBLIC__/images/a9.jpg" class="img-circle" alt="...">
+                 </a>
+                 <div class="m-l-lg">
+                   <div class="m-b-xs">
+                     <a href class="h4">John smith</a>
+                     <span class="text-muted m-l-sm pull-right">
+                       Just now
+                     </span>
+                   </div>
+                   <div class="m-b">
+                     <div>Lorem ipsum dolor sit amet, consecteter adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. ullamcorper sodales nisi nec adipiscing elit. Morbi id neque quam. Aliquam sollicitudin </div>
+                     <div class="m-t-sm">
+                       <a href class="text-muted m-xs"><i class="icon-action-redo"></i></a>
+                       <a href class="text-muted m-xs"><i class="icon-star"></i></a>
+                       <a href class="text-muted m-xs"><i class="icon-refresh"></i> 13</a>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+               .comment-reply
+               <div class="m-l-lg">
+                 <a class="pull-left thumb-sm avatar">
+                   <img src="__PUBLIC__/images/a5.jpg" alt="...">
+                 </a>          
+                 <div class="m-l-xxl panel b-a">
+                   <div class="panel-heading pos-rlt">
+                     <span class="arrow left pull-up"></span>
+                     <span class="text-muted m-l-sm pull-right">
+                       10m ago
+                     </span>
+                     <a href>Mika Sam</a>
+                     Report this comment is helpful                           
+                   </div>
+                 </div>
+               </div>
+               / .comment-reply
+               <div>
+                 <a class="pull-left thumb-sm avatar m-l-n-md">
+                   <img src="__PUBLIC__/images/a3.jpg" alt="...">
+                 </a>          
+                 <div class="m-l-lg m-b-lg panel b-a bg-light lt">
+                   <div class="panel-heading pos-rlt b-light">
+                     <span class="arrow arrow-light left"></span>                    
+                     <a href>By me</a>
+                     <span class="text-muted m-l-sm pull-right">
+                       1h ago
+                     </span>
+                   </div>
+                   <div class="panel-body">
+                     <div>This comment was posted by you.</div>
+                   </div>
+                 </div>
+               </div>
+               <div>
+                 <a class="pull-left thumb-sm avatar m-l-n-md">
+                   <img src="__PUBLIC__/images/a6.jpg" class="img-circle" alt="...">
+                 </a>
+                 <div class="m-l-lg m-b-lg">
+                   <div class="m-b-xs">
+                     <a href class="h4">Jessica</a>
+                     <span class="text-muted m-l-sm pull-right">
+                       3h ago
+                     </span>
+                   </div>
+                   <div class="m-b">
+                     <div class="m-b">Cecteter adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. ullamcorper sodales nisi nec adipiscing elit. Morbi id neque quam. Aliquam sollicitudin </div>
+                     <img src="__PUBLIC__/images/c5.jpg" class="b b-a wrapper-xs bg-white img-responsive">
+                     <div class="m-t-sm">
+                       <a href class="text-muted m-xs"><i class="icon-action-redo"></i></a>
+                       <a href class="text-muted m-xs"><i class="icon-star"></i></a>
+                       <a href class="text-muted m-xs"><i class="icon-refresh"></i> 13</a>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+               <div>
+                 <a class="pull-left thumb-sm avatar m-l-n-md">
+                   <img src="__PUBLIC__/images/a4.jpg" class="img-circle" alt="...">
+                 </a>
+                 <div class="m-l-lg m-b-lg">
+                   <div class="m-b-xs">
+                     <a href class="h4">Fisio</a>
+                     <span class="text-muted m-l-sm pull-right">
+                       4h ago
+                     </span>
+                   </div>
+                   <div>
+                     <div class="m-b">Diam nonummy nibh euismod tincidunt ut laoreet. ullamcorper sodales nisi nec adipiscing elit. Morbi id neque quam. Aliquam sollicitudin </div>
+                     <div class="panel panel-default m-t-md m-b-n-sm pos-rlt">
+                       <form>
+                         <textarea class="form-control no-border" rows="3" placeholder="Your comment..."></textarea>
+                       </form>
+                       <div class="panel-footer bg-light lter">
+                         <button class="btn btn-info pull-right btn-sm">Comment</button>
+                         <ul class="nav nav-pills nav-sm">
+                           <li><a href><i class="fa fa-camera text-muted"></i></a></li>
+                           <li><a href><i class="fa fa-video-camera text-muted"></i></a></li>
+                         </ul>
+                       </div>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+               <div>
+                 <a class="pull-left thumb-sm avatar m-l-n-md">
+                   <img src="__PUBLIC__/images/a2.jpg" alt="...">
+                 </a>          
+                 <div class="m-l-lg panel b-a">
+                   <div class="panel-heading pos-rlt b-b b-light">
+                     <span class="arrow left"></span>
+                     <a href>Peter</a>
+                     <label class="label bg-light m-l-xs">VIP</label> 
+                     <span class="text-muted m-l-sm pull-right">
+                       9h ago
+                     </span>
+                   </div>
+                   <div class="panel-body">
+                     <blockquote>
+                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                       <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                     </blockquote>
+                     <div>Lorem ipsum dolor sit amet, consecteter adipiscing elit...</div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+                         </div> -->
+
+            </div>
+            <div class="col w-lg bg-light lter b-l bg-auto">
+            <!-- right -->
+
+            <include file="index/template/right" />
+            <!-- /right -->
+            </div>
+          </div>
+        <!-- PASTE above -->
+      </div>
+    </div>
+    <!-- /content -->
+
+    <!-- aside right -->
+    <div class="app-aside-right pos-fix no-padder w-md w-auto-xs bg-white b-l animated fadeInRight hide">
+      <div class="vbox">
+        <div class="wrapper b-b b-t b-light m-b">
+          <a href class="pull-right text-muted text-md" data-toggle="class:show" data-target=".app-aside-right"><i class="icon-close"></i></a>
+          Chat
+        </div>
+        <div class="row-row">
+          <div class="cell">
+            <div class="cell-inner padder">
+              <!-- chat list -->
+              <div class="m-b">
+                <a href class="pull-left thumb-xs avatar"><img src="__PUBLIC__/images/a2.jpg" alt="..."></a>
+                <div class="clear">
+                  <div class="pos-rlt wrapper-sm b b-light r m-l-sm">
+                    <span class="arrow left pull-up"></span>
+                    <p class="m-b-none">Hi John, What's up...</p>
+                  </div>
+                  <small class="text-muted m-l-sm"><i class="fa fa-ok text-success"></i> 2 minutes ago</small>
+                </div>
+              </div>
+              <div class="m-b">
+                <a href class="pull-right thumb-xs avatar"><img src="__PUBLIC__/images/a3.jpg" class="img-circle" alt="..."></a>
+                <div class="clear">
+                  <div class="pos-rlt wrapper-sm bg-light r m-r-sm">
+                    <span class="arrow right pull-up arrow-light"></span>
+                    <p class="m-b-none">Lorem ipsum dolor :)</p>
+                  </div>
+                  <small class="text-muted">1 minutes ago</small>
+                </div>
+              </div>
+              <div class="m-b">
+                <a href class="pull-left thumb-xs avatar"><img src="__PUBLIC__/images/a2.jpg" alt="..."></a>
+                <div class="clear">
+                  <div class="pos-rlt wrapper-sm b b-light r m-l-sm">
+                    <span class="arrow left pull-up"></span>
+                    <p class="m-b-none">Great!</p>
+                  </div>
+                  <small class="text-muted m-l-sm"><i class="fa fa-ok text-success"></i>Just Now</small>
+                </div>
+              </div>
+              <!-- / chat list -->
+            </div>
+          </div>
+        </div>
+        <div class="wrapper m-t b-t b-light">
+          <form class="m-b-none">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="Say something">
+              <span class="input-group-btn">
+                <button class="btn btn-default" type="button">SEND</button>
+              </span>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <!-- / aside right -->
+
+    <!-- footer -->
+          <include file="index/template/footer" />
+       <!-- / footer -->
+  </div>
+  <!-- jQuery -->
+  <script src="__PUBLIC__/vendor/jquery/jquery.min.js"></script>
+  <script src="__PUBLIC__/vendor/jquery/bootstrap.js"></script>
+  <script type="text/javascript">
+    +function ($) {
+      $(function(){
+        // class
+        $(document).on('click', '[data-toggle^="class"]', function(e){
+          e && e.preventDefault();
+          console.log('abc');
+          var $this = $(e.target), $class , $target, $tmp, $classes, $targets;
+          !$this.data('toggle') && ($this = $this.closest('[data-toggle^="class"]'));
+          $class = $this.data()['toggle'];
+          $target = $this.data('target') || $this.attr('href');
+          $class && ($tmp = $class.split(':')[1]) && ($classes = $tmp.split(','));
+          $target && ($targets = $target.split(','));
+          $classes && $classes.length && $.each($targets, function( index, value ) {
+            if ( $classes[index].indexOf( '*' ) !== -1 ) {
+              var patt = new RegExp( '\\s' + 
+                  $classes[index].
+                    replace( /\*/g, '[A-Za-z0-9-_]+' ).
+                    split( ' ' ).
+                    join( '\\s|\\s' ) + 
+                  '\\s', 'g' );
+              $($this).each( function ( i, it ) {
+                var cn = ' ' + it.className + ' ';
+                while ( patt.test( cn ) ) {
+                  cn = cn.replace( patt, ' ' );
+                }
+                it.className = $.trim( cn );
+              });
+            }
+            ($targets[index] !='#') && $($targets[index]).toggleClass($classes[index]) || $this.toggleClass($classes[index]);
+          });
+          $this.toggleClass('active');
+        });
+
+        // collapse nav
+        $(document).on('click', 'nav a', function (e) {
+          var $this = $(e.target), $active;
+          $this.is('a') || ($this = $this.closest('a'));
+          
+          $active = $this.parent().siblings( ".active" );
+          $active && $active.toggleClass('active').find('> ul:visible').slideUp(200);
+          
+          ($this.parent().hasClass('active') && $this.next().slideUp(200)) || $this.next().slideDown(200);
+          $this.parent().toggleClass('active');
+          
+          $this.next().is('ul') && e.preventDefault();
+
+          setTimeout(function(){ $(document).trigger('updateNav'); }, 300);      
+        });
+      });
+    }(jQuery);
+  </script>
+</body>
+</html>
